@@ -1,0 +1,26 @@
+{
+  "name": "stockgen",
+  "version": "1.0.0",
+  "description": "A App used to predict stock prices based on neural networks and TensorflowJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdcoder/StockGen.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Deep",
+    "Learning",
+    "TensorflowJS",
+    "LSTM"
+  ],
+  "author": "Prakash Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdcoder/StockGen/issues"
+  },
+  "homepage": "https://github.com/pdcoder/StockGen#readme"
+}
